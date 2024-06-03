@@ -146,6 +146,10 @@ strong {
   color: rgb(148, 148, 148);
 }
 
+.no-scroll {
+  overflow: hidden;
+}
+
 /* --------extra--------- */
 
 .theme-btn2 {
