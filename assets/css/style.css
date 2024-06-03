@@ -150,6 +150,10 @@ strong {
   overflow: hidden;
 }
 
+.mt-extra {
+  margin-top: 60px;
+}
+
 /* --------extra--------- */
 
 .theme-btn2 {
