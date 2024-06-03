@@ -640,7 +640,7 @@ strong {
   .close-experience-popup-btn
   svg,
 .popup-menu-wrap .popup-menu-header .popup-menu-close-btn .icon svg {
-  display: block;
+  display: flex;
   width: 34px;
   height: 34px;
 }
